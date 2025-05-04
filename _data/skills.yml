@@ -1,12 +1,28 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Web Development
+- skill: Web Development
+  description: Proficient in developing responsive web applications using the MERN stack, Next.js, and integrating APIs. Experienced in ensuring secure authentication and optimizing performance.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# AI and Machine Learning
+- skill: AI and Machine Learning
+  description: Skilled in building and optimizing machine learning models, data analysis, and working with frameworks like TensorFlow, Keras, and PyTorch. Experienced in natural language processing and generative AI.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Team Management and Leadership
+- skill: Team Management and Leadership
+  description: Proven ability to lead cross-functional teams, manage projects, and foster collaboration. Experienced in mentoring, public speaking, and coordinating events.
+
+# Open Source Contribution
+- skill: Open Source Contribution
+  description: Actively contribute to open-source projects, including decentralized applications and smart contracts. Experienced in collaborating with diverse teams to enhance project functionality and usability.
+
+# Cloud Computing and DevOps
+- skill: Cloud Computing and DevOps
+  description: Knowledgeable in cloud deployments, DevOps practices, and working with AWS services. Experienced in implementing scalable systems and optimizing workflows.
+
+# Data Analysis
+- skill: Data Analysis
+  description: Proficient in data preprocessing, building dashboards, and generating insights using tools like Power BI. Experienced in working with large datasets and extracting meaningful information.
+
+# Community Journalism
+- skill: Community Journalism
+  description: Experienced in crafting compelling narratives, leading news teams, and embracing technological advancements to enhance storytelling and audience engagement.
