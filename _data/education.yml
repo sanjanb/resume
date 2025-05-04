@@ -1,13 +1,14 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+# Degree
+- degree: Bachelor of Engineering, Computer Science
+  uni: ATME College of Engineering, Mysuru
+  year: 2022 &mdash; 2026
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Best Student Award
+      organization: Lions International, Multiple District 317 & Negilayogi Samaja Seva Trust (R)
+      date: Dec 2024
+  summary: Recognized as the Best Student for exceptional academic excellence and all-round achievements in engineering. Actively participated in various college clubs and workshops, enhancing both technical and leadership skills.
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: Vagdevi PU College
+  year: 2022;
