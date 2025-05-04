@@ -1,15 +1,44 @@
 # Associations
-# comment out the urls if you do not wish to display them
+# Comment out the URLs if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+# - organization: IEEE Computer Society Bangalore Chapter
+#   role: Project Intern
+#   year: Apr, 2025 &mdash; Present
+#   url: https://ieeebangalore.org/
+#   summary: Contributed to innovative IEEE-led tech research and development projects remotely. Collaborated with peers on technical tasks involving AI/ML and systems innovation.
 
+- organization: IEEE ATMECE
+  role: Vice Chair
+  year: Sep, 2024 &mdash; Present
+  url: https://atmece.ac.in/
+  summary: Led student branch activities, organized workshops, and promoted tech awareness. Fostered industry-academia collaboration and professional skill development.
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+# - organization: Social Winter of Code (SWOC)
+#   role: Open Source Contributor
+#   year: Dec, 2024 &mdash; Feb, 2025
+#   url: https://socialwinterofcode.com/
+#   summary: Contributed to impactful open-source projects benefiting social causes. Implemented key features and bug fixes, working in diverse, remote teams.
+
+# - organization: GirlScript Winter of Contributing
+#   role: Open Source Contributor (Blockchain)
+#   year: Sep, 2024 &mdash; Nov, 2024
+#   url: https://girlscript.tech/
+#   summary: Developed decentralized applications and smart contracts. Collaborated globally to enhance blockchain security and efficiency.
+
+- organization: Google Developers Group (GDG)
+  role: Member
+  year: Mar, 2024 &mdash; Present
+  url: https://developers.google.com/community/gdg
+  summary: Engaged in tech talks and hackathons focused on JavaScript and full-stack development.
+
+- organization: GDSC SJCE
+  role: Member
+  year: Dec, 2023 &mdash; Nov, 2024
+  url: https://gdsc.community.dev/
+  summary: Attended workshops and collaborated on community projects in Flutter and Cloud.
+
+# - organization: Thirthahalli Bandhu
+#   role: News Editor & Reporter
+#   year: Feb, 2023 &mdash; May, 2023
+#   url: https://thirthahallibandhu.com/
+#   summary: Spearheaded community-centric journalism initiatives. Crafted compelling narratives and led a team to deliver timely and impactful news updates.
