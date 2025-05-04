@@ -1,19 +1,72 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Web Developer
+- company: Upwork
+  position: Web Developer
+  duration: Jul, 2020 &mdash; Present
+  summary: Developed responsive web applications using the MERN stack, integrated APIs, and ensured secure authentication. Delivered client projects with cloud deployments, real-time features, and user-friendly interfaces, enhancing client satisfaction.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Project Intern
+- company: IEEE Computer Society Bangalore Chapter
+  position: Project Intern
+  duration: Apr, 2025 &mdash; Present
+  summary: Contributed to innovative IEEE-led tech research and development projects remotely. Collaborated with peers on technical tasks involving AI/ML and systems innovation.
 
+# # Vice Chair
+# - company: IEEE ATMECE
+#   position: Vice Chair
+#   duration: Sep, 2024 &mdash; Present
+#   summary: Led student branch activities, organized workshops, and promoted tech awareness. Fostered industry-academia collaboration and professional skill development.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Project Manager Team Lead
+- company: IEEE ATMECE
+  position: Project Manager Team Lead
+  duration: Jun, 2024 &mdash; Dec, 2024
+  summary: Spearheaded student-led tech initiatives with a focus on quality, deadlines, and innovation. Managed cross-functional teams, increasing project efficiency and team synergy.
+
+# Open Source Contributor
+- company: Social Winter of Code (SWOC)
+  position: Open Source Contributor
+  duration: Dec, 2024 &mdash; Feb, 2025
+  summary: Contributed to impactful open-source projects benefiting social causes. Implemented key features and bug fixes, working in diverse, remote teams.
+
+# Open Source Contributor (Blockchain)
+- company: GirlScript Winter of Contributing
+  position: Open Source Contributor
+  duration: Sep, 2024 &mdash; Nov, 2024
+  summary: Developed decentralized applications and smart contracts. Collaborated globally to enhance blockchain security and efficiency.
+
+# Business Development Specialist
+- company: Younity.in
+  position: Business Development Specialist
+  duration: Feb, 2025 &mdash; Feb, 2025
+  summary: Built revenue pipelines and scalable systems for B2B and B2C growth. Applied strategic thinking to develop business communication solutions.
+
+# AI Intern
+- company: COSMIC365.AI
+  position: AI Intern
+  duration: May, 2024 &mdash; Jun, 2024
+  summary: Worked on AI projects, including data preprocessing and ML model tuning. Collaborated on product strategy for AI-driven tools.
+
+# Intern (Data Analyst)
+# - company: (Company name not specified)
+#   position: Intern
+#   duration: Apr, 2024 &mdash; May, 2024
+#   summary: Developed dashboards and insights using Power BI for better decision-making.
+
+# News Editor
+- company: Thirthahalli Bandhu
+  position: News Editor, News Reporter, Marketing Manager
+  duration: Mar, 2022 &mdash; May, 2023
+  summary: Spearheaded community-centric journalism initiatives. Crafted compelling narratives that resonated with the audience, bridging the gap between news and community. Led a team to deliver timely and impactful news updates, enhancing viewer engagement and trust.
+
+# News Reporter
+# - company: Thirthahalli Bandhu
+#   position: News Reporter
+#   duration: Oct, 2022 &mdash; Feb, 2023
+#   summary: Built strong relationships with the community to ensure trust and credibility in news reporting. Embraced technological advancements to enhance storytelling and engage with the audience effectively.
+
+# # Marketing Manager
+# - company: Thirthahalli Bandhu
+#   position: Marketing Manager
+#   duration: Mar, 2022 &mdash; Sep, 2022
+#   summary: Led the team in capturing the essence of Thirthahalli through storytelling and content creation. Developed and implemented marketing strategies to promote Thirthahalli Bandhu's cultural significance. Increased community engagement and brand awareness through impactful storytelling and social media campaigns.
