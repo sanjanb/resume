@@ -1,16 +1,58 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
+# Uncomment the URLs if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Fashion Item Generator using GANs
+- project: Fashion Item Generator using GANs
+  role: Developer
+  duration: May, 2025 &mdash; Present
+  url: "https://github.com/sanjanb/GAN-GenAI"
+  description: Developed a GAN model to generate realistic fashion images using the Fashion MNIST dataset. Implemented generator and discriminator models, optimized training processes, and evaluated performance.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Churn Prediction Model
+- project: Churn Prediction Model
+  role: Developer
+  duration: Apr, 2025 &mdash; Present
+  url: "https://github.com/sanjanb/NeuralNetwork-with-PyTorch"
+  description: Created a comprehensive project to understand and implement machine learning models using PyTorch and PyTorch Lightning. Includes dataset preprocessing, neural network architecture, and practical application to predict customer churn.
+
+# FarmToTable Next.js E-commerce Store
+- project: FarmToTable Next.js E-commerce Store
+  role: Developer
+  duration: Mar, 2025 &mdash; Present
+  url: "https://github.com/sanjanb/FarmToTable-NextJs-Ecommerce"
+  description: Built a modern, full-featured e-commerce platform using Next.js 14, TypeScript, and Wix. Features include a product catalog, shopping cart, user authentication, and a secure checkout process.
+
+# IEEE ATMECE Projects
+- project: IEEE ATMECE Projects
+  role: Project Manager Team Lead
+  duration: Jun, 2024 &mdash; Dec, 2024
+  url: "https://atmece.ac.in/"
+  description: Spearheaded student-led tech initiatives with a focus on quality, deadlines, and innovation. Managed cross-functional teams, increasing project efficiency and team synergy.
+
+# Social Winter of Code (SWOC) Contributions
+- project: Social Winter of Code (SWOC) Contributions
+  role: Open Source Contributor
+  duration: Dec, 2024 &mdash; Feb, 2025
+  url: "https://socialwinterofcode.com/"
+  description: Contributed to impactful open-source projects benefiting social causes. Implemented key features and bug fixes, working in diverse, remote teams.
+
+# GirlScript Winter of Contributing
+- project: GirlScript Winter of Contributing
+  role: Open Source Contributor (Blockchain)
+  duration: Sep, 2024 &mdash; Nov, 2024
+  url: "https://girlscript.tech/"
+  description: Developed decentralized applications and smart contracts. Collaborated globally to enhance blockchain security and efficiency.
+
+# COSMIC365.AI Internship
+# - project: COSMIC365.AI Internship
+#   role: AI Intern
+#   duration: May, 2024 &mdash; Jun, 2024
+#   url: "https://cosmic365.ai/"
+#   description: Worked on AI projects, including data preprocessing and ML model tuning. Collaborated on product strategy for AI-driven tools.
+
+# Thirthahalli Bandhu Journalism
+# - project: Thirthahalli Bandhu Journalism
+#   role: News Editor & Reporter
+#   duration: Feb, 2023 &mdash; May, 2023
+#   url: "https://thirthahallibandhu.com/"
+#   description: Spearheaded community-centric journalism initiatives. Crafted compelling narratives and led a team to deliver timely and impactful news updates.
